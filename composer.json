@@ -14,8 +14,11 @@
     "type": "tao-skeleton",
     "extra": {
         "installer-paths": {
-            "": ["vendor/package"]
+            "/": ["vendor/package"]
         }
+    },
+    "config": {
+        "vendor-dir": "./"
     }
 }
 
