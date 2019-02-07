@@ -1,0 +1,79 @@
+<phpunit bootstrap="tests/bootstrap/bootstrap.php">
+    <testsuites>
+        <testsuite name="generis">
+            <directory>generis/test/unit</directory>
+        </testsuite>
+        <testsuite name="ltiDeliveryProvider">
+            <directory>ltiDeliveryProvider/test/unit</directory>
+        </testsuite>
+        <testsuite name="qtiItemPci">
+            <directory>qtiItemPci/test/unit</directory>
+        </testsuite>
+        <testsuite name="qtiItemPic">
+            <directory>qtiItemPic/test/unit</directory>
+        </testsuite>
+        <testsuite name="tao">
+            <directory>tao/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoClientDiagnostic">
+            <directory>taoClientDiagnostic/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoDelivery">
+            <directory>taoDelivery/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoDeliveryRdf">
+            <directory>taoDeliveryRdf/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoDeliverySchedule">
+            <directory>taoDeliverySchedule/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoGroups">
+            <directory>taoGroups/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoItems">
+            <directory>taoItems/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoLti">
+            <directory>taoLti/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoMediaManager">
+            <directory>taoMediaManager/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoOpenWebItem">
+            <directory>taoOpenWebItem/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoOutcomeRds">
+            <directory>taoOutcomeRds/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoOutcomeUi">
+            <directory>taoOutcomeUi/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoProctoring">
+            <directory>taoProctoring/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoQtiItem">
+            <directory>taoQtiItem/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoQtiTest">
+            <directory>taoQtiTest/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoResultServer">
+            <directory>taoResultServer/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoRevision">
+            <directory>taoRevision/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoTestCenter">
+            <directory>taoTestCenter/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoTestLinear">
+            <directory>taoTestLinear/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoTests">
+            <directory>taoTests/test/unit</directory>
+        </testsuite>
+        <testsuite name="taoTestTaker">
+            <directory>taoTestTaker/test/unit</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

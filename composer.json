@@ -1,0 +1,14 @@
+{
+    "name": "oat-sa/tao-skeleton",
+    "description": "TAO package skeleton",
+    "homepage": "http://www.taotesting.com",
+    "license": "GPL-2.0-only",
+    "keywords": [
+        "tao",
+        "oat",
+        "computer-based-assessment"
+    ],
+    "type": "tao-skeleton",
+    "target-dir": ""
+}
+
