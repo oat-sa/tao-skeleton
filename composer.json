@@ -9,6 +9,6 @@
         "computer-based-assessment"
     ],
     "type": "tao-skeleton",
-    "target-dir": ""
+    "target-dir": "./"
 }
 
