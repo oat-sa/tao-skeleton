@@ -8,17 +8,6 @@
         "oat",
         "computer-based-assessment"
     ],
-    "require": {
-        "composer/installers": "~1.0"
-    },
     "type": "tao-skeleton",
-    "extra": {
-        "installer-paths": {
-            "/": ["vendor/package"]
-        }
-    },
-    "config": {
-        "vendor-dir": "./"
-    }
 }
 
